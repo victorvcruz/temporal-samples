@@ -1,2 +1,2 @@
-# temporal-samples
-Exemplos e amostras de uso da plataforma de fluxo de trabalho Temporal.io
+# Temporal Samples
+Examples and usage samples of the Temporal.io workflow platform.
